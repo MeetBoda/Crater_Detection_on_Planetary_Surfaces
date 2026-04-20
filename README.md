@@ -134,17 +134,6 @@ Link : https://drive.google.com/drive/folders/1UzXdJjP1AjvKSgjsykHp3x3IZKwHo4Wq?
 
 ---
 
-## 👥 Team Members
-- Amanpreet Singh  
-- Dhruv Roy Talukdar  
-- Harshit Srivastava  
-- Meetkumar Boda  
-- Sahib Parmar  
-- V Arvind  
-- Vinayak Bhosle  
-
----
-
 ## 📌 Conclusion
 - Explored multiple segmentation architectures  
 - Designed novel hybrid models  
