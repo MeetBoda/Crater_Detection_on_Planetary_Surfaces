@@ -1,4 +1,4 @@
-# 🌌 Planetary Crater Detection using Semantic Segmentation
+# 🌌 Recall-Optimized Planetary Crater Detection via Semantic Segmentation : Lightweight and Transformer-Based Architectures on Martian Imagery
 
 ## 📌 Overview
 This project focuses on **automatic detection and segmentation of impact craters** on planetary surfaces (e.g., Mars) using deep learning techniques.
